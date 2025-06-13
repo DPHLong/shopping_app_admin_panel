@@ -1,6 +1,8 @@
 # multi_web_admin
 
-A new Flutter project.
+A 3-in-1 Flutter project.
+
+This project is a part of a 3-in-1 Flutter shopping application, which includes 3 projects: buyer, seller and web-admin-panel.
 
 ## Getting Started
 

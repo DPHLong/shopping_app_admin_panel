@@ -4,15 +4,24 @@ A 3-in-1 Flutter project.
 
 This project is a part of a 3-in-1 Flutter shopping application, which includes 3 projects: buyer, seller and web-admin-panel.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Email & Password Authentication
 
-A few resources to get you started if this is your first Flutter project:
+- Create and upload Categories
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create and upload Products
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create and upload Banners
+
+- EVERYTHING REAL TIME
+
+# Usage
+
+- In this Repo there are only lib folder and pubspec.yaml, which contain the main source codes.
+
+- All 3 code bases - Seller, Buyer and Admin Panel - can work independently.
+
+- You need to add all 3 code bases in 1 Firebase Project, so that they can link to each other.
+
+- Please feel free to ask.

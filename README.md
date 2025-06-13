@@ -1,4 +1,4 @@
-# multi_web_admin
+# shopping_app_admin_panel
 
 A 3-in-1 Flutter project.
 

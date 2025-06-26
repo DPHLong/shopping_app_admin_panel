@@ -16,7 +16,19 @@ This project is a part of a 3-in-1 Flutter shopping application, which includes 
 
 - EVERYTHING REAL TIME
 
-# Usage
+# Installation
+
+- Create Firebase Project
+
+- Enable Authentication
+
+- Make Firestore Rules
+
+- Create Android, iOS & Web Apps
+
+- Copy files in lib and pubspec.yaml into your app-folder
+
+# Notes
 
 - In this Repo there are only lib folder and pubspec.yaml, which contain the main source codes.
 
